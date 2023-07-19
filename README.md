@@ -4,7 +4,7 @@ A Flutter Game.
 
 ## How To Play?
 
-This game can be played with two people.With each click,players extend their colorful area and narrow their rival's colorful area.
+This game can be played with two people.With each click, players extend their colorful area and narrow their rival's colorful area.
 The one who fills the device window first win.
 
 ![clicking_game_screenshot_1](https://github.com/GizemGoksu/ClickingGame/assets/102183115/6f76d771-36f0-4681-8187-749ff2db8491)
